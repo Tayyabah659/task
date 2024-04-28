@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+  
+    background-image: url('./d8b66209-63a6-477f-904d-c60cd9560185.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left top;
+    background-attachment: fixed;}
+    
+      .my-class { background-image: url('./d8b66209-63a6-477f-904d-c60cd9560185.jpg');
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center center;
+        width: 500px;
+        height: 300px;}
+       
+  
+h1{
+  font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(244, 240, 239);
+    font-size: 50px;
+    font-weight: bold;
+    margin-top:90px;
+    margin-bottom: 10px;
+
+    
+    }
+p{
+    text-align: center;
+    
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top: 0px;
+}
+
+nav ul {
+    background-color: #333;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav ul a:hover {
+    background-color: #555;
+}
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 10%; /* You can adjust this value for the margin */
+  }
+
+
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 10%; /* You can adjust this value for the margin */
+  }
+ 
+  nav a {
+    color: rgb(109, 102, 86);
+    text-decoration: none;
+    margin-right: 10px;
+        color: rgb(27, 26, 26);
+        text-decoration: none;
+        margin-right: 10px;
+        border-bottom: 2px solid transparent;
+        transition: border-color 0.2s ease-in-out ;
+        font-size: 1.2rem;
+        font-weight: 300px;
+       
+     
+    }
+        nav a:hover {
+           
+            color: #67afb0;
+            border-color: #095553;
+           
+          }
+          button {
+            background-color:rgb(9, 101, 101) ; 
+            color: white;
+             padding: 10px 20px;
+            border: none;
+            border-radius: 30px;
+            font-size: 11px;
+            font-weight: bold;
+            text-align: center;
+        
+        
+        
+    
+      
+          }
+
+
+
+
+/* Add more styles as needed */
